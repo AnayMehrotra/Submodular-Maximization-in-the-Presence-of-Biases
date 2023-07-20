@@ -1,0 +1,9 @@
+mkdir: scraped_pages: File exists
+  0%|          | 0/460 [00:00<?, ?it/s]100%|██████████| 460/460 [00:00<00:00, 80347.31it/s]
+page loaded
+Username entered
+Password entered
+1 buttons on the page
+Login complete...
+Done scraping all relevant movies!
+DONE SCRAPING ALL RELEVANT MOVIES!!
